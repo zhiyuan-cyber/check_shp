@@ -18,6 +18,8 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 
 用途：
+
+
 ①可用于矢量自相交、重叠、有属性无图斑（空几何）等问题检查（重点检查前面三类，其他的可作为参考）。
 
 
