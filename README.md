@@ -3,7 +3,9 @@
 
 1.安装python3.9以上环境，3.13,3.14更好。
 
-2.使用前建议先配置python国内源：cmd中输入：pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+2.使用前建议先配置python国内源：cmd中输入：
+
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 3.完成上述工作后，在需要检测的目录下，用cmd输入:python check_topology(jiangsu).py "需检查矢量路径" -o "保存报告路径"
 
